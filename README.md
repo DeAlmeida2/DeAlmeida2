@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Eu sou o André Felipe, programador e Engenheiro Ambiental. 
+## Eu sou o André Felipe, Engenheiro Ambiental e Programador. 
 <div align="center">
   <a href="https://github.com/DeAlmeida2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dealmeida2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
